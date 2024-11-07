@@ -1,6 +1,6 @@
 {
     "game": {
-        "grid_size": [8, 8],
+        "grid_size": [4, 4],
         "win_tile": 2048,
         "spawn_tiles": {
             "2": 0.9,
